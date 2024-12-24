@@ -84,5 +84,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 - [GitHub](https://github.com/RachitaPant)  
 
 Feel free to check out my repositories and reach out if you'd like to collaborate on exciting tech projects! 💬
+ <br><br>
+ ![](https://github.com/RachitaPant/RachitaPant/blob/main/mm.webp)
 
   
