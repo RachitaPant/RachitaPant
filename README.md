@@ -52,6 +52,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 - 🎮 **Strawhat** - An anime community app built with React Native and Firebase. Users can engage with other anime fans, share theories, and stay updated on their favorite shows.  
 - 🤖 **AI Chatbot** - A project using the **MERN stack** to create a powerful SaaS chatbot.
+  <br><br>
+ ![](https://github.com/RachitaPant/RachitaPant/blob/main/giphy.webp)
 
 ## 🌟 Achievements
 
@@ -66,7 +68,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 - **Started with web development** using the **MERN stack** and built a foundation in **frontend** and **backend**.
 - **Built an anime community app** using **React Native** and **Firebase** to explore mobile app development.
-  <br><br>
+
  
   
 ## 🎯 Goals
